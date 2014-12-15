@@ -3,3 +3,5 @@
 /Debug/
 *.v12.suo
 *.opensdf
+/Win32/
+/x64/
