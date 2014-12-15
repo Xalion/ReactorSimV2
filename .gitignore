@@ -1,2 +1,5 @@
 *.v11.suo
 *.sdf
+/Debug/
+*.v12.suo
+*.opensdf
